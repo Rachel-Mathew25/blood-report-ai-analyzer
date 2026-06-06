@@ -4,13 +4,8 @@ An AI-powered health analysis application that extracts information from blood t
 
 ## 🚀 Live Demo
 
-[Add your Streamlit App URL here]
+https://blood-report-ai-analyzer-3nxet8ghagkgy3nluenrtk.streamlit.app
 
-## 📂 GitHub Repository
-
-[Add your GitHub Repository URL here]
-
----
 
 ## 📌 Overview
 
